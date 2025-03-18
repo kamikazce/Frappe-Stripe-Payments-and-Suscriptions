@@ -15,8 +15,7 @@ If you're building a Frappe-based application (like ERPNext or a custom solution
 ## Contributions
 Contributions are welcome! This project is open-source, and we’re excited to collaborate with the community. If you have ideas for new features, improvements, or bug fixes, feel free to:
 - Open an **Issue** to report problems or suggest enhancements.
-- Submit a **Pull Request** with your changes (please follow the [contribution guidelines](#contributing) to be added soon).
-- Contact me directly at [jramonclopez@gmail.com](mailto:jramonclopez@gmail.com).
+- Submit a **Pull Request** with your changes.
 
 ## Installation
 
