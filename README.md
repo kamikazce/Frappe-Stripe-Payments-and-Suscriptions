@@ -45,9 +45,6 @@ Follow these steps to install and configure Frappe Payments Master in your Frapp
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the license terms.
 
-## Contact
-Created by [kamikazce](https://github.com/kamikazce). For questions, support, or collaboration, email [jramonclopez@gmail.com](mailto:jramonclopez@gmail.com).
-
 ---
 
 **Thank you for using Frappe Payments Master!**
